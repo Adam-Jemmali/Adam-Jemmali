@@ -1,28 +1,41 @@
-👋 Hey there! I'm Adam 🚀
-👨‍💻 About Me
-I'm a tech-driven problem solver passionate about AI, data science, and product management. My goal is to leverage AI for real-world business solutions while continuously learning and building innovative projects.
+# Hi 👋 I'm Adam Jemmali
 
-💡 Interests Beyond Tech: I love diving into business & knowledge books, keeping up with the basketball & tennis world, and exploring how technology intersects with real-world business challenges.
+## 💫 About Me
+I am an **Honours Computer Science student** passionate about **sports
+, AI automation, machine learning, and coding**. I love building intelligent applications that merge technology with athletics, and I'm constantly exploring innovative ways to leverage AI for real-world solutions.
 
-💼 What I'm Working On
-🚀 AI-Powered B2B Solutions – Creating scalable AI-driven products for business optimization.
-📊 Data Science & ML – Applying AI to solve real-world efficiency problems.
-📈 Product Management – Designing & optimizing user-centric AI applications.
+## 🚀 What I'm Up To
+- 🤖 Experimenting with **AI and Machine Learning** models using TensorFlow, PyTorch, and scikit-learn.
+- 🏀 Developing **sports analytics and AI automation projects** to improve athletic performance.
+- 💻 Building robust and scalable applications that integrate cutting-edge technology.
+- 🎓 Learning and sharing insights on the latest in tech and automation.
 
-📚 Currently Learning
-Advanced Machine Learning & AI Strategy
-Scalable Product Development & Market Fit
-Optimized Workplace Efficiency using AI
+## 🌐 Connect with Me
+- [LinkedIn](www.linkedin.com/in/adam-jemmali)
+- [GitHub](https://github.com/Adam-Jemmali)
+- [instagram](https://www.instagram.com/madaj_2/)
 
-🔥 Skills & Tech Stack
-💻 Programming: Python | Java
-📊 AI/ML Tools: TensorFlow | PyTorch | Scikit-learn | OpenAI API
-📈 Data Science: Pandas | NumPy | Power BI | Tableau
-🛠 Automation & No-Code: Zapier | Make.com
-🚀 Web Development: React.js | Next.js | Firebase
+## 💻 Tech Stack
+**Languages:**  
+- Python  
+- Java  
+- SQL  
+- JavaScript  
+- HTML5 & CSS
 
-💡 Let's Connect :)
-📩 Personal Email: trapdimej@gmail.com
-📩 Professional Email: adam.official.514@gmail.com
+**Developer Tools:**  
+- Git & GitHub  
+- VS Code  
 
-🌍 LinkedIn: 
+
+**Libraries/Frameworks & Technologies:**  
+- TensorFlow, PyTorch, scikit-learn (Machine Learning & AI)  
+- FastAPI, Flask, NodeJS (Web Development)  
+- ReactJS (Frontend Development)  
+- AI Automation Tools (Zapier, Make.com,n8n)  
+- Data Visualization (PowerBI)  
+- Computer Vision (OpenCV,Mediapipe)
+
+---
+
+I'm passionate about using technology to solve complex problems and love sharing my journey and projects. Check out my coding portfolio and feel free to reach out if you want to collaborate!
