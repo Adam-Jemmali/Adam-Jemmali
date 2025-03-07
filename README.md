@@ -38,4 +38,4 @@ I am an **Honours Computer Science student** passionate about **sports
 
 ---
 
-I'm passionate about using technology to solve complex problems and love sharing my journey and projects. Check out my coding portfolio and feel free to reach out if you want to collaborate!
+I'm passionate about using technology to solve complex problems and love sharing my journey and projects. Feel free to reach out if you want to collaborate!
