@@ -1,41 +1,22 @@
-# Hi 👋 I'm Adam Jemmali
-
-## 💫 About Me
-I am an **Honours Computer Science student** passionate about **sports
-, AI automation, machine learning, and coding**. I love building intelligent applications that merge technology with athletics, and I'm constantly exploring innovative ways to leverage AI for real-world solutions.
-
-## 🚀 What I'm Up To
-- 🤖 Experimenting with **AI and Machine Learning** models using TensorFlow, PyTorch, and scikit-learn.
-- 🏀 Developing **sports analytics and AI automation projects** to improve athletic performance.
-- 💻 Building robust and scalable applications that integrate cutting-edge technology.
-- 🎓 Learning and sharing insights on the latest in tech and automation.
-
-## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/adam-jemmali)
-- [GitHub](https://github.com/Adam-Jemmali)
-- [instagram](https://www.instagram.com/madaj_2/)
-
-## 💻 Tech Stack
-**Languages:**  
-- Python  
-- Java  
-- SQL  
-- JavaScript  
-- HTML5 & CSS
-
-**Developer Tools:**  
-- Git & GitHub  
-- VS Code  
+# 💫 About Me:
+Hi 👋 I'm Adam Jemmali<br><br>💫 About Me<br>I am an Honours Computer Science student passionate about sports, AI automation, machine learning, and coding. I love building intelligent applications that merge technology with athletics, and I'm constantly exploring innovative ways to leverage AI for real-world solutions.<br><br>🔭 I’m currently working on<br><br>Experimenting with AI and Machine Learning models using TensorFlow, PyTorch, and scikit-learn.<br><br>Developing sports analytics and AI automation projects to improve athletic performance.<br><br>Building robust and scalable applications that integrate cutting-edge technology.<br><br>👯 I’m looking to collaborate on<br><br>Sports analytics & performance tracking projects.<br><br>AI automation ecosystems using tools like Make.com, Zapier, and n8n.<br><br>Machine learning research or open-source contributions.<br><br>🤝 I’m looking for help with<br><br>Scaling AI-driven applications to production.<br><br>Advanced data visualization and real-time analytics.<br><br>Integrating automation into business workflows.<br><br>🌱 I’m currently learning<br><br>Deep learning architectures (Transformers, CNNs, RNNs).<br><br>Advanced backend frameworks like FastAPI and NodeJS.<br><br>Sports-focused computer vision with OpenCV & Mediapipe.<br><br>💬 Ask me about<br><br>AI automation & no-code/low-code tools.<br><br>Machine learning pipelines.<br><br>Building sports analytics solutions.<br><br>⚡ Fun fact<br>When I’m not coding, I’m playing or analyzing sports—I love finding ways to merge athletics with AI.
 
 
-**Libraries/Frameworks & Technologies:**  
-- TensorFlow, PyTorch, scikit-learn (Machine Learning & AI)  
-- FastAPI, Flask, NodeJS (Web Development)  
-- ReactJS (Frontend Development)  
-- AI Automation Tools (Zapier, Make.com,n8n)  
-- Data Visualization (PowerBI)  
-- Computer Vision (OpenCV,Mediapipe)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madaj_2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-jemmali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adam.official.514@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adam-Jemmali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adam-Jemmali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Jemmali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Adam-Jemmali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm passionate about using technology to solve complex problems and love sharing my journey and projects. Feel free to reach out if you want to collaborate!
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Adam Jemmali) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
