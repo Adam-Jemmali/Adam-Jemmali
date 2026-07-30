@@ -1,7 +1,7 @@
 ﻿<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/gtbpfp/main/gtbpfp/dark-banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/gtbpfp/main/gtbpfp/dark-banner.svg">
-  <img alt="Adam Jemmali - AI/ML Engineer" src="https://raw.githubusercontent.com/Adam-Jemmali/gtbpfp/main/gtbpfp/dark-banner.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dark-banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dark-banner.svg">
+  <img alt="Adam Jemmali - AI/ML Engineer" src="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dark-banner.svg" width="100%">
 </picture>
 
 ---
