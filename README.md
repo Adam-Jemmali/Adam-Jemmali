@@ -161,10 +161,11 @@ Docker, Kubernetes, Helm, Jenkins, GitHub Actions, Git, Linux, pytest, Playwrigh
 ## Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/gtbpfp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/gtbpfp/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Adam-Jemmali/gtbpfp/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dist/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dist/github-contribution-grid-snake.svg">
 </picture>
+
 
 ---
 
