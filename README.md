@@ -124,21 +124,21 @@ Docker, Kubernetes, Helm, Jenkins, GitHub Actions, Git, Linux, pytest, Playwrigh
 
 ## Certifications
 
-- **AWS Fundamentals of Machine Learning and Artificial Intelligence** — Amazon Web Services | Oct 2025
-- **Intro to Machine Learning, scikit-learn, Random Forest** — Kaggle | Nov 2025
-- **Practical GitHub Actions** — LinkedIn Learning | Feb 2026
-- **Introduction to Artificial Intelligence** — LinkedIn Learning | 2025
-- **Docker and DevOps Fundamentals** — LinkedIn Learning | 2026
-- **AWS Cloud Practitioner** — Amazon Web Services | In progress (2026)
+- **AWS Fundamentals of Machine Learning and Artificial Intelligence** Amazon Web Services | Oct 2025
+- **Intro to Machine Learning, scikit-learn, Random Forest**  Kaggle | Nov 2025
+- **Practical GitHub Actions**  LinkedIn Learning | Feb 2026
+- **Introduction to Artificial Intelligence**  LinkedIn Learning | 2025
+- **Docker and DevOps Fundamentals**  LinkedIn Learning | 2026
+- **AWS Cloud Practitioner**  Amazon Web Services | In progress (2026)
 
 ---
 
 ## Awards & Recognition
 
-- **Best Use of Snowflake API** — Invest Ottawa Hackathon 2026 (Chronos Cloud distributed digital twin platform)
-- **Faculty of Engineering Achievement Award** — University of Ottawa 2024-2025
-- **68 NeetCode DSA Submissions** — Arrays, graphs, dynamic programming, trees, system design patterns
-- **GitHub Pull Shark & YOLO Badges** — Consistent open-source commit activity and PR contributions
+- **Best Use of Snowflake API** Invest Ottawa Hackathon 2026 (Chronos Cloud distributed digital twin platform)
+- **Faculty of Engineering Achievement Award**  University of Ottawa 2024-2025
+- **68 NeetCode DSA Submissions**  Arrays, graphs, dynamic programming, trees, system design patterns
+- **GitHub Pull Shark & YOLO Badges** Consistent open-source commit activity and PR contributions
 
 ---
 
