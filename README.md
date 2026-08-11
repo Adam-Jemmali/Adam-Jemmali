@@ -6,6 +6,33 @@
 
 ---
 
+
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dist/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dist/github-contribution-grid-snake.svg">
+</picture>
+
+
+## GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-psi-three-99.vercel.app/api?username=Adam-Jemmali&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-three-99.vercel.app/api?username=Adam-Jemmali&show_icons=true&theme=default&include_all_commits=true&cache_seconds=1800">
+  <img alt="GitHub Stats" src="https://github-readme-stats-psi-three-99.vercel.app/api?username=Adam-Jemmali&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-psi-three-99.vercel.app/api/top-langs/?username=Adam-Jemmali&layout=compact&theme=dark&cache_seconds=1800">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-three-99.vercel.app/api/top-langs/?username=Adam-Jemmali&layout=compact&theme=default&cache_seconds=1800">
+  <img alt="Top Languages" src="https://github-readme-stats-psi-three-99.vercel.app/api/top-langs/?username=Adam-Jemmali&layout=compact&theme=dark&cache_seconds=1800">
+</picture>
+
+
+
 ## About Me
 
 **CS student building the future of scouting**
@@ -142,29 +169,10 @@ Docker, Kubernetes, Helm, Jenkins, GitHub Actions, Git, Linux, pytest, Playwrigh
 
 ---
 
-## GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-psi-three-99.vercel.app/api?username=Adam-Jemmali&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-three-99.vercel.app/api?username=Adam-Jemmali&show_icons=true&theme=default&include_all_commits=true&cache_seconds=1800">
-  <img alt="GitHub Stats" src="https://github-readme-stats-psi-three-99.vercel.app/api?username=Adam-Jemmali&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-psi-three-99.vercel.app/api/top-langs/?username=Adam-Jemmali&layout=compact&theme=dark&cache_seconds=1800">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-three-99.vercel.app/api/top-langs/?username=Adam-Jemmali&layout=compact&theme=default&cache_seconds=1800">
-  <img alt="Top Languages" src="https://github-readme-stats-psi-three-99.vercel.app/api/top-langs/?username=Adam-Jemmali&layout=compact&theme=dark&cache_seconds=1800">
-</picture>
 
 ---
 
-## Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dist/github-contribution-grid-snake.svg">
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Adam-Jemmali/Adam-Jemmali/main/dist/github-contribution-grid-snake.svg">
-</picture>
 
 
 ---
